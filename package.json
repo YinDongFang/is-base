@@ -1,0 +1,31 @@
+{
+  "name": "is-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/is-base.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/is-base/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/is-base#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "is-array": "^1.0.1",
+    "is-falsy": "^0.0.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "is-string": "^1.0.7",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21"
+  }
+}
